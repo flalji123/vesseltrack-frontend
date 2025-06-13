@@ -1,1 +1,16 @@
 body { margin: 0; font-family: Arial, sans-serif; }
+.min-h-screen { min-height: 100vh; }
+.flex { display: flex; }
+.w-64 { width: 16rem; }
+.bg-gray-900 { background-color: #1a202c; }
+.text-white { color: #fff; }
+.p-4 { padding: 1rem; }
+.p-8 { padding: 2rem; }
+.text-xl { font-size: 1.25rem; }
+.font-bold { font-weight: bold; }
+.mb-4 { margin-bottom: 1rem; }
+.space-y-2 > :not([hidden]) ~ :not([hidden]) { margin-top: 0.5rem; }
+.text-2xl { font-size: 1.5rem; }
+.font-semibold { font-weight: 600; }
+.text-gray-700 { color: #4a5568; }
+.mt-4 { margin-top: 1rem; }
